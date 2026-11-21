@@ -1,8 +1,8 @@
 # Báo cáo cá nhân — Ngày 11
-Họ tên:               Mã học viên:  
-Phiên bản CVAT (Help → About):  
+Họ tên: Phạm Đức Việt              Mã học viên: 2A202603265 
+Phiên bản CVAT (Help → About):  Cvat 2.81
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest):  
-Thời điểm export (ngày giờ trên CVAT):    Số lần nộp lại sau Rework:  
+Thời điểm export (ngày giờ trên CVAT): Nov 21st 26, 11:22    Số lần nộp lại sau Rework:  
 
 ## 1. Kiểm project
 | Mục | Đúng như guideline Road v1.0? | Ghi chú |
